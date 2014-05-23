@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Settlers-android/gen"/>
+	<classpathentry kind="src" path="Settlers-android/src"/>
+	<classpathentry kind="src" path="Settlers-desktop/src"/>
+	<classpathentry kind="src" path="Settlers-html/src"/>
+	<classpathentry kind="src" path="Settlers/src"/>
+	<classpathentry kind="lib" path="Settlers-android/bin/dexedLibs/annotations-6c0acaa0866f33c1126e6442196e15e3.jar"/>
+	<classpathentry kind="lib" path="Settlers-android/bin/dexedLibs/bodyeditor-loader-7ded80ce5e8143bfeb01402d31df1cb1.jar"/>
+	<classpathentry kind="lib" path="Settlers-android/bin/dexedLibs/gdx-backend-android-5992686da24658a12573897f5e8d625e.jar"/>
+	<classpathentry kind="lib" path="Settlers-android/bin/dexedLibs/gdx-backend-android-sources-49952ba9cc375beb6f3c363fa96e2ac3.jar"/>
+	<classpathentry kind="lib" path="Settlers-android/bin/dexedLibs/gdx-ea5090bc6e0dcbef0dedf6b4cd17708d.jar"/>
+	<classpathentry kind="lib" path="Settlers-android/bin/dexedLibs/tween-engine-api-f2e958d203ce9d49313f6b8cfa2570a7.jar"/>
+	<classpathentry kind="lib" path="Settlers-android/libs/gdx-backend-android-sources.jar"/>
+	<classpathentry kind="lib" path="Settlers-android/libs/gdx-backend-android.jar"/>
+	<classpathentry kind="lib" path="Settlers-desktop/libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="Settlers-desktop/libs/gdx-backend-lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="Settlers-desktop/libs/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="Settlers-desktop/libs/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="Settlers-html/war/WEB-INF/lib/gdx-backend-gwt-sources.jar"/>
+	<classpathentry kind="lib" path="Settlers-html/war/WEB-INF/lib/gdx-backend-gwt.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/bodyeditor-loader-sources.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/bodyeditor-loader.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/box2dlights-sources.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/box2dlights.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/gdx-freetype-natives.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/gdx-freetype.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/gdx.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="Settlers/libs/tween-engine-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Settlers-desktop/bin"/>
+</classpath>
